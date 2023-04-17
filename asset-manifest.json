@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crudfundingdapp/static/css/main.0b677a42.css",
-    "main.js": "/crudfundingdapp/static/js/main.8f3b7ba7.js",
+    "main.js": "/crudfundingdapp/static/js/main.3404e94e.js",
     "static/js/787.22edae46.chunk.js": "/crudfundingdapp/static/js/787.22edae46.chunk.js",
     "static/media/banner3.jpeg": "/crudfundingdapp/static/media/banner3.584de33511b719944937.jpeg",
     "static/media/banner2.jpeg": "/crudfundingdapp/static/media/banner2.0db496b83cf96d8e71d2.jpeg",
@@ -12,11 +12,11 @@
     "static/media/ngo2.png": "/crudfundingdapp/static/media/ngo2.827e45c8d1df614a0a75.png",
     "index.html": "/crudfundingdapp/index.html",
     "main.0b677a42.css.map": "/crudfundingdapp/static/css/main.0b677a42.css.map",
-    "main.8f3b7ba7.js.map": "/crudfundingdapp/static/js/main.8f3b7ba7.js.map",
+    "main.3404e94e.js.map": "/crudfundingdapp/static/js/main.3404e94e.js.map",
     "787.22edae46.chunk.js.map": "/crudfundingdapp/static/js/787.22edae46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b677a42.css",
-    "static/js/main.8f3b7ba7.js"
+    "static/js/main.3404e94e.js"
   ]
 }
